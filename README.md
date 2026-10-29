@@ -492,17 +492,6 @@ Four rules that reduce pushback:
 | ML accuracy (no leakage) | *to be measured* | ⬆️ Above 85% target |
 
 > 📝 Targets should be set by the business after the Phase 1 baseline. The figures above are current values from the dashboard, and the directions are the recommended goals.
-
-### ❓ Questions to Confirm With the Data Owner Before Presenting
-
-1. Is on-time performance or cost the top priority?
-2. How are Total Flights growth (33.1%) and the route late-rate measure defined?
-3. Why does the data show only January–August in the monthly views?
-4. Should merged carriers (US Airways, AirTran) appear separately or under the surviving airline?
-5. Which model and run produced the 92.18% on the ML gauge?
-
-
-
 ---
 
 ## 🧰 Tools Used
