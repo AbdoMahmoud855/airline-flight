@@ -6,7 +6,8 @@ An end-to-end airline analytics project: a Python cleaning pipeline that builds 
 
 > ⏱️ **Data range:** 2014 → 2017 (one raw file per year). Some monthly views only show January–August, so seasonal comparisons should be read with that in mind. See [Reading the Data Correctly](#-reading-the-data-correctly).
 
-![Overview](images/overview.png)
+<img width="1417" height="670" alt="image" src="https://github.com/user-attachments/assets/b5701cdd-7efc-4abb-b877-bf56ef079512" />
+
 
 ---
 
