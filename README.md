@@ -172,7 +172,8 @@ A dark green and gold theme keeps the numbers in focus and gives all five pages 
 
 ## 📄 Page 1: Overview
 
-![Overview](images/overview.png)
+<img width="1417" height="670" alt="image" src="https://github.com/user-attachments/assets/a0ea2c7d-69f6-46b5-87cb-660ee1c38e59" />
+
 
 ### 🔢 KPI Cards
 The story: in five seconds the cards say "where we stand".
